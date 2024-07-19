@@ -5,7 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Coding Themed Portfolio</title>
     <style>
-
         body {
     background-color: #000000;
     color: #ffffff;
@@ -35,8 +34,8 @@
 }
 
 #about-me {
-    margin-left: 10%;
-    margin-right: 40%;
+    margin-left: 20%;
+    margin-right: 20%;
     text-align: justify;
     text-size-adjust: 10px;
     margin-bottom: 5%;
@@ -250,7 +249,7 @@ footer.footer {
     <nav>
         <div style="display: flex; align-items: center;">
             <img src="https://yashwadhvani.vercel.app/static/media/hacker.85d4b8055ce4937a1f2f.png" alt="Logo" class="logo">
-            <p class="logo-text">Shubh Kalaria</p>
+            <p class="logo-text">Shubh_Kalaria</p>
         </div>
         <div style="display: flex;">
             <a href="#about-me"><span class="color2">About Me</span></a>
