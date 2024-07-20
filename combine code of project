@@ -315,19 +315,19 @@ footer.footer {
                 <div class = "color1"><h3>Personal Portfolio Website</h3></div>
                 <div class = "color"><p><br>Stack - JavaScript, React.js, MongoDB</p></div>
                 <p>Designed and developed a personal portfolio website using HTML, CSS, and JavaScript to showcase my skills, projects and experience.</p>
-                <a href="https://github.com/ShubH9604/Personal-Portfolio-Website" class="view-code-button">View Code</a>
+                <a href="https://github.com/ShubH9604/Personal-Portfolio-Website" class="view-code-button">View</a>
             </div>
             <div class="project-box">
                 <div class = "color1"><h3>Predicting Stock Prices</h3></div>
                 <div class = "color"><p><br>Stack - TensorFlow, sklearn, numpy, pandas</p></div>
                 <p>Built a machine learning model to predict stock prices based on historical trends and key financial metrics, utilizing pandas for accurate predictions.</p>
-                <a href="https://github.com/ShubH9604/Predicting-Stock-Prices" class="view-code-button">View Code</a>
+                <a href="https://github.com/ShubH9604/Predicting-Stock-Prices" class="view-code-button">View</a>
             </div>
             <div class="project-box">
                 <div class = "color1"><h3>Food Calorie Recognition</h3></div>
                 <div class = "color"><p><br>Stack - TensorFlow, sklearn, keras, numpy</p></div>
                 <p>Built a model to recognize and estimate food calorie content through image recognition and utilized CNN for precise calorie estimation.</p>
-                <a href="https://github.com/ShubH9604/Food-Calorie-Recognition" class="view-code-button">View Code</a>
+                <a href="https://github.com/ShubH9604/Food-Calorie-Recognition" class="view-code-button">View</a>
             </div>
         </div>
     </div>
