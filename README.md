@@ -6,7 +6,7 @@ This is a personal portfolio website for **Shubh Kalaria**, showcasing skills, p
 
 ## 🔗 Live Demo
 
-[Check it out here](#) (https://shubhkalariaportfolio.netlify.app/)
+[Check it out here] -> (https://shubhkalariaportfolio.netlify.app/)
 
 ---
 
